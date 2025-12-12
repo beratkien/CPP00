@@ -1,6 +1,7 @@
 #ifndef CONTACT_HPP
 #define CONTACT_HPP
 #include "main.hpp"
+#include <string>
 
 class Contact {
     private:
